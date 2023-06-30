@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/napros) - napros @ gmail.com
+Your Name - [@napros](https://twitter.com/napros) - napros @ gmail.com
 
 Project Link: [https://github.com/napros/ccna](https://github.com/napros/ccna)
 
